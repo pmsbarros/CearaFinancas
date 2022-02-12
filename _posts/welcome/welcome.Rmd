@@ -1,13 +1,12 @@
 ---
-title: "Welcome to Financas publicas cearenses"
+title: "Bem-vindo(a) ao blog Finanças Públicas Cearenses!"
 description: |
-  Welcome to our new blog, Financas publicas cearenses. We hope you enjoy 
-  reading what we have to say!
+  Este blog é um repositório de análises sobre finanças públicas no estado e nos municípios do Ceará.
 author:
-  - name: Nora Jones 
+  - name: Pedro Barros 
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+    affiliation: Secretaria de Estado da Fazenda do Ceará (nomeação em breve)
+    affiliation_url: https://www.sefaz.ce.gov.br/
 date: 02-12-2022
 output:
   distill::distill_article:
